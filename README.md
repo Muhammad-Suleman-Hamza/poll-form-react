@@ -1,4 +1,4 @@
-# Poll Form
+# Poll Form (React + Material UI)
 
 ## For Installation
 
